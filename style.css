@@ -19,3 +19,12 @@ header { border-bottom: solid 2px rgb(0, 0, 0);
 }
 
 h1 {font-size: 40px;} 
+img{heigt:200px}
+.categoria-vídeo {
+        display: flex;
+        overflow-x:auto;
+        gap: 10px; }
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+}
